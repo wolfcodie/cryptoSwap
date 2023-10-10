@@ -1,0 +1,20 @@
+:root {
+  --white: #fff;
+  --black: #110b0b;
+  --light-blue: #3498db;
+  --green: #07bc0c;
+  --orang: #f1c40f;
+  --red: #e74c3c;
+  --transparent: rgba(255, 255, 255, 0.7);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: var(--white);
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+}
+body {
+  background-color: var(--black);
+}
